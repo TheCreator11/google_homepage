@@ -1,0 +1,85 @@
+body {
+  color: #222;
+}
+
+.nav {
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+.navi {
+  float: right;
+  margin: 0 9px;
+  font-family: arial;
+  font-size: 13px;
+  line-height: 24px;
+}
+
+.navi img {
+  padding-top: 3px;
+}
+
+.navi button {
+  color: white;
+  background: #2E8AE6;
+  border: none;
+  height: 30px;
+  width: 70px;
+  font-size: 11px;
+}
+
+.main {
+  text-align: center;
+  padding-top: 176px;
+}
+
+.main img {
+  height: 95px;
+  width: 269px;
+}
+
+.main form input {
+  width: 569px;
+  height: 26px;
+  margin-top: 19px;
+  border:1px solid rgba(0, 0, 0, 0.2);
+}
+
+.buttons button {
+  color: rgb(68, 68, 68);
+  font-weight: bold;
+  font-size: 10px;
+  background: #2E8AE6;
+  height: 29px;
+  width:118px;
+  margin: 16px 4px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: rgb(245, 245, 245);
+}
+
+footer {
+    background:rgb(242, 242, 242);
+  height:40px;
+  width:100%;
+  position:fixed;
+  bottom:0px;
+}
+
+.links {
+    color: #666;
+  font-family: arial;
+  font-size: 13px;
+  line-height: 24px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.links .left {
+  float: left;
+  margin: 8px 15px;
+}
+
+.links .right {
+  float: right;
+  margin: 8px 15px;
+}
